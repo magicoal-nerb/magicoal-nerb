@@ -1,4 +1,4 @@
-computational geometrer, computer graphics, simulations, programming languages, networking, systems. :)   
+computational geometrer, computer graphics, simulations, differentiable programming, programming languages, networking, systems. :)   
 *also an absolute minimalist*   
 
 i usually post snippets of what i do on here, check it out!   
