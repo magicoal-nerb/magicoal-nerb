@@ -1,4 +1,5 @@
-## Hi there 👋
+magical
+<img width="932" height="510" alt="{B531F317-5734-4418-BADF-FC0AE345A188}" src="https://github.com/user-attachments/assets/7de9b8ad-2062-48f2-a8e4-fa953ebb45c6" />
 
 <!--
 **magicoal-nerb/magicoal-nerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
