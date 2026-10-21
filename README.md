@@ -8,7 +8,7 @@ currently working on: ggpu (vulkan wrapper based off [no graphics api](https://w
 *ggpu render*
 <img width="935" height="552" alt="{E87D67C4-131B-423D-8701-7DC845837903}" src="https://github.com/user-attachments/assets/a58d9725-499d-4637-b3d9-d0172110f8b7" />
 
-*impulse2*
+*impulse2 (admittedly, getting this test right alongside reduced coordinate ragdolls was lwky annoying)*
 <img width="981" height="794" alt="image" src="https://github.com/user-attachments/assets/cf03eda6-c9cf-4739-a9ec-47acb71c7894" />
 
 *luna*
