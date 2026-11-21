@@ -5,7 +5,7 @@ i usually post snippets of what i program on here, and [gists of stuff](https://
 
 currently working on: impulse2 (a pure C, vectorized TGS-soft solver based off of [impulse](https://github.com/magicoal-nerb/impulse)), and luna (two pass optimizing compiled  language using a luau-like syntax)
 
-*[ggpu](https://github.com/magicoal-nerb/ggpu/blob/main/ggpu/ggpu.h)*   
+*[ggpu (custom vulkan 1.4 wrapper based off of no graphics api)](https://github.com/magicoal-nerb/ggpu/tree/main)*   
 *also, thank you [@Nobonet](https://github.com/nobonet) for the yi model !!*   
 <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/3b283f7e-2386-4e04-b6d5-35be2e678d0b" />
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/3872e47f-63f9-4bbf-9a04-b0d4e5f17688" />
